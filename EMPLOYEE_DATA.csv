@@ -1,0 +1,21 @@
+ID,NAME,DEPARTMENT,REGION,SALARY,PERFORMANCE,STATUS
+1,"Arjun Sharma",Sales,North,65000,4,Active
+2,"Priya Reddy",Marketing,South,55000,5,Active
+3,"Rahul Verma",HR,East,45000,3,Resigned
+4,"Neha Gupta",Finance,West,70000,5,Active
+5,"Amit Kumar",IT,North,80000,4,Active
+6,"Sneha Patel",Sales,South,60000,3,Active
+7,"Vikram Singh",Marketing,East,52000,2,Active
+8,"Anjali Mehta",HR,West,48000,4,Resigned
+9,"Rohit Yadav",Finance,North,75000,5,Active
+10,"Pooja Nair",IT,South,85000,5,Active
+11,"Karan Joshi",Sales,East,58000,3,Active
+12,"Divya Iyer",Marketing,West,62000,4,Active
+13,"Suresh Rao",Finance,South,72000,2,Active
+14,"Meera Kapoor",HR,North,47000,5,Active
+15,"Nikhil Das",IT,East,90000,5,Active
+16,"Kavya Menon",Sales,West,61000,4,Resigned
+17,"Aditya Mishra",Marketing,North,57000,3,Active
+18,"Shreya Roy",Finance,East,78000,4,Active
+19,"Manish Jain",IT,West,95000,5,Active
+20,"Aisha Khan",HR,South,50000,4,Active
