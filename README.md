@@ -141,7 +141,7 @@ Employee-Database-SQL/
 │
 ├── EMPLOYEE_DB.sql      # Database creation, sample data, and SQL queries
 ├── README.md            # Project documentation
-└── screenshots/         # Query execution screenshots (optional)
+└── EMPLOYEE_DATA.CSV    # EMPLOYEE DATA OUTPUT
 ```
 
 ---
